@@ -15,7 +15,7 @@ Si este proyecto está alojado en un repositorio remoto (por ejemplo, GitHub), c
 git clone <URL_DEL_REPOSITORIO>
 cd <NOMBRE_DEL_REPOSITORIO>
 
-
+```markdown
 ### **2. Crear un entorno virtual**
 Crea un entorno virtual para aislar las dependencias del proyecto:
 
