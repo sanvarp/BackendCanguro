@@ -20,4 +20,19 @@ Crea un entorno virtual para aislar las dependencias del proyecto:
 
 ```bash
 python -m venv venv
+```
 
+
+### **3. Instalar dependencias**
+Con el entorno virtual activado, instala las dependencias del proyecto especificadas en `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+### **4. Ejecutar el servidor**
+Para iniciar el servidor FastAPI, ejecuta el siguiente comando desde el directorio donde se encuentra el archivo `main.py`:
+
+```bash
+uvicorn main:app --reload
+```
