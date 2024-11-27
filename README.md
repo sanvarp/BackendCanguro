@@ -14,3 +14,10 @@ Si este proyecto está alojado en un repositorio remoto (por ejemplo, GitHub), c
 ```bash
 git clone <URL_DEL_REPOSITORIO>
 cd <NOMBRE_DEL_REPOSITORIO>
+
+
+### **2. Crear un entorno virtual**
+Crea un entorno virtual para aislar las dependencias del proyecto:
+
+```bash
+python -m venv venv
