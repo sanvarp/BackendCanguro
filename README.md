@@ -1,5 +1,5 @@
 # **BackendCanguro**
-Backend para el proyecto de grado con la Fundación Canguro, desarrollado con **FastAPI**. Este backend permite ejecutar dos scripts (`script1.py` y `script2.py`) a través de endpoints REST.
+Backend para el proyecto de grado con la Fundación Canguro, desarrollado con **FastAPI**. 
 
 ## **Requisitos previos**
 Antes de ejecutar el proyecto, asegúrate de tener lo siguiente instalado en tu sistema:
